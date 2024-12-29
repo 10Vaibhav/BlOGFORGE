@@ -97,3 +97,6 @@ This separation allows for:
 - All dates are stored in ISO format
 - Form validation is handled through HTML5 attributes
 
+
+## 📄 License
+This repository is licensed under the [MIT License](LICENSE).
